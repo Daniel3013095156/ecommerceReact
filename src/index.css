@@ -1,0 +1,10 @@
+imput, 
+label,
+button {
+    font: size 1.4rem;
+}
+
+
+label {
+    display: block;
+}
